@@ -1,0 +1,13 @@
+INSTALLATION
+------------
+To install, just follow these simple instructions.
+
+1. Navigate your way to the top level directory the kaolin folder is located in.
+
+2. Type this string of instructions into the console:
+   # (cd kaolin/src; make; cd ..; ./bin/mud &; telnet localhost 3333)
+
+3. When it asks for your name type:
+     Test
+   Password:
+     Test

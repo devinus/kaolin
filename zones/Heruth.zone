@@ -1,0 +1,61 @@
+$id   1
+$name The Temple
+$description
+Gold tapestries hang from the ceiling.  Colorful tiles decorate the floor in
+intricate designs.  Ruby sapphires are encrusted into the marble walls.  There
+is a beautiful statue in the center of the temple.
+~
+$exit N  2
+$exit S  3
+$exit E  4
+$exit W  5
+$exit U  6
+$exit D  7
+#
+$id   2
+$name The Temple Altar
+$description
+Blood drips from the top of the altar from a newly sacrificed lamb.  Some mint
+leaves are sprinkled over the corpse to detract from the stench.
+~
+$exit S  1
+#
+$id   3
+$name The Temple Steps
+$description
+Grand steps lead forward into the temple of Xeon.  White doves nest and fly
+nearby.  This is place where the sun never sets, but stays at a position
+between the afternoon and evening; cool and relaxing.  A fountain gushes
+forth water nearby.
+~
+$exit N  1
+#
+$id   4
+$name The Temple Library
+$description
+Books are stacked against the walls; a small library, but with a gigantic
+ladder that could lead one into the heavens... or perhaps just an interesting
+book.  A few tables are povided in the room, to allow scholars a place to
+study.
+~
+$exit W  1
+#
+$id   5
+$name The Priest Quarters
+$description
+This is where the priests of the temple come to eat and rest.  A long dining
+table takes up the middle of the room, while small beds with little chestnut
+cabinets line the walls.  Acolytes of Xeon are required to keep their
+worldly possessions minimal.
+~
+$exit E  1
+#
+$id   6
+$name The Temple Spire
+$description
+The land surrounding the temple can be seen from here.  It is beautiful, but
+ruthless.  This is the only safe haven in the land, for it is protected by Xeon
+himself.  Guardsmen can be seen patrolling below.
+~
+$exit D  1
+#

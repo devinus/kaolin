@@ -1,0 +1,9 @@
+$id   7
+$name The Catacombs
+$description
+It is wet and dark.  Thousand foot columns support the temple above.  Nobody
+knows for sure what all lurks in these underground catacombs, and it is said
+that only the bravest of the brave dare enter it.
+~
+$exit U  1
+#
